@@ -1,0 +1,14 @@
+{
+  "name": "@pyrogenic/proon",
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "repository": "git@github.com:pyrogenic/proon.git",
+  "author": "Joshua Pollak <abottomlesspit@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-roon-api-browse": "github:roonlabs/node-roon-api-browse",
+    "node-roon-api-status": "github:roonlabs/node-roon-api-status",
+    "node-roon-api-transport": "github:roonlabs/node-roon-api-transport",
+    "node-roon-api": "github:roonlabs/node-roon-api"
+  }
+}
